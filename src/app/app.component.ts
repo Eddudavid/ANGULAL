@@ -9,3 +9,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   name = 'Bazd meg feri';
 }
+
+//TODO 25.Leckénél vagyok
